@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Dbase {
     private static String db_url;
     private static String db_user;
-    private static String db_pass = "su";
+    private static String db_pass;
     static final String BYE_SCANNER = "bye";
 
 
